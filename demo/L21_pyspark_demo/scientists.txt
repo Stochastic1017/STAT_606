@@ -1,0 +1,8 @@
+Claude Shannon 3.1 EE 1916
+Eugene Wigner 3.2 Physics 1902
+Albert Einstein 4.0 Physics 1879
+Ronald Fisher 3.25 Statistics 1890
+Max Planck 2.9 Physics 1858
+Leonard Euler 3.9 Mathematics 1707
+Jerzy Neyman 3.5 Statistics 1894
+Ky Fan 3.55 Mathematics 1914

@@ -1,0 +1,2 @@
+This is just a demo file.
+Normally, a file this small would have no need for Hadoop.
