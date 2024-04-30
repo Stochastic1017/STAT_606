@@ -27,7 +27,7 @@ def change_date(line):
                 tuples in the format (YYYY, tmax, tmin)                                                                                                         
     '''
 
-    string_line= line.split(',')
+    string_line = line.split(',')
 
     try:
         year = int(string_line[0][0:4])
